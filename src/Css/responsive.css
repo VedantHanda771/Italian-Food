@@ -7,7 +7,9 @@
       margin-right: 10px;
       margin-top: 10px;
     }
-    
+    html{
+      overflow-x: hidden;
+    }
     ul {
       flex-direction: column;
       text-align: center;
